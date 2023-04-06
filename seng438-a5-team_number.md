@@ -2,7 +2,7 @@
 
 **Lab. Report \#5 – Software Reliability Assessment**
 
-| Group \#:            |               |
+| Group 12:            |               |
 |-----------------     |---------------|
 | Student Names:       |      UCID     |
 | Esohe Aideyan        |    30135560   |
