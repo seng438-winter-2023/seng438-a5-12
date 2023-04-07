@@ -18,15 +18,15 @@ This assignment was an opportunity for the group to familiarize ourselves with S
 # Assessment Using Reliability Growth Testing 
 
 # Assessment Using Reliability Demonstration Chart 
-We used DATASET3.dat for the RDC. The largest failure count was 16, and the time it took was 153, so calculating the MTTF we got 153/16 = 9.56, which we rounded to 10 for simplicity. Using the RDC-11 Excel sheet, we graphed the data which resulted in the following: 
+We used DATASET3.dat for the RDC. The largest failure count was 16, and the time it took was 153, so calculating the MTTF we got 153/16 = 9.56, which we rounded to 10 for simplicity. Using the RDC-11 Excel sheet, we graphed the data which resulted in the following: \
 ![mttf](https://user-images.githubusercontent.com/85323597/230688329-254ded9f-fc7e-4fdf-8bc4-a6d65e078832.png)
 Based on the graph, we can see that the systems reliability begins in the continue test area, while proceeding to the accept area. This tells us that the system reliability is within the acceptable range. 
 
-RDC for double the MTTF:
+RDC for double the MTTF:\
 ![double_mttf](https://user-images.githubusercontent.com/85323597/230689332-535bb24a-a77c-4847-88a9-d3f91a6738b9.png)
 This plot is of double the MTTF, which results in a trend in the continue zone of the RDC. The data is moving towards the reject zone, so we can say that the system is somewhat reliable.   
 
-RDC for half the MTTF:
+RDC for half the MTTF:\
 ![half_mttf](https://user-images.githubusercontent.com/85323597/230689348-1f99ccfa-b16f-48b7-aa92-d0bb7bb7a7cf.png)
 This plot is of half the MTTF, which results in a trend beginning in the continue zone, and moving into the accept zone. Therefore we can conclude that the system is reliable based on this plot being within the acceptable range. 
 
