@@ -16,6 +16,12 @@
 This assignment was an opportunity for the group to familiarize ourselves with Software Testing and Reliability as well as Software Testing and Reliabilty assessment tools. The assignment allowed us to fully understand software testing and reliability by selecting a set of models that will provide the best fit for project data using model ranking. It also provided a visual representation that made it easy to check whether the target failure rate or MTTF was met. 
 
 # Assessment Using Reliability Growth Testing 
+Failure Count for failure report 9 using SRTAT:\
+![image](https://user-images.githubusercontent.com/85323597/230689760-34ee4d0e-8d76-464d-9fad-50756c905675.png)
+
+Time between failures for failure report 10 using SRTAT:\
+![image](https://user-images.githubusercontent.com/85323597/230689849-1bda4ac3-b294-45ea-b4b4-cddc83d9e18e.png)
+
 
 # Assessment Using Reliability Demonstration Chart 
 We used DATASET3.dat for the RDC. The largest failure count was 16, and the time it took was 153, so calculating the MTTF we got 153/16 = 9.56, which we rounded to 10 for simplicity. Using the RDC-11 Excel sheet, we graphed the data which resulted in the following: \
