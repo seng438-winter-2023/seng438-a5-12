@@ -17,7 +17,7 @@ This assignment was an opportunity for the group to familiarize ourselves with S
 
 # Assessment Using Reliability Growth Testing 
 Failure Count for failure report 9 using SRTAT:\
-![image](https://user-images.githubusercontent.com/85323597/230689760-34ee4d0e-8d76-464d-9fad-50756c905675.png)\
+![image](https://user-images.githubusercontent.com/85323597/230689760-34ee4d0e-8d76-464d-9fad-50756c905675.png)
 
 Time between failures 1 for failure report 10 using SRTAT:\
 ![geometric](https://user-images.githubusercontent.com/85323597/230697857-877ad988-a164-404a-8f2a-1a257eb5f056.png)\
