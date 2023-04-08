@@ -11,8 +11,6 @@
 | Dyenaan Dapoet       |    30126758   |
 
 # Introduction
-
-# 
 This assignment was an opportunity for the group to familiarize ourselves with Software Testing and Reliability as well as Software Testing and Reliabilty assessment tools. The assignment allowed us to fully understand software testing and reliability by selecting a set of models that will provide the best fit for project data using model ranking. It also provided a visual representation that made it easy to check whether the target failure rate or MTTF was met. 
 
 # Assessment Using Reliability Growth Testing 
@@ -41,15 +39,12 @@ RDC for half the MTTF:\
 ![half_mttf](https://user-images.githubusercontent.com/85323597/230689348-1f99ccfa-b16f-48b7-aa92-d0bb7bb7a7cf.png)\
 This plot is of half the MTTF, which results in a trend beginning in the continue zone, and moving into the accept zone. Therefore we can conclude that the system is reliable based on this plot being within the acceptable range. 
 
-# 
-
 # Comparison of Results
 
 # Discussion on Similarity and Differences of the Two Techniques
 
 # How the team work/effort was divided and managed
-
-# 
+Due to the peculiarity of this assignment and to avoid any confusion, we decided to work on the assignment all together in order to understand it better and make progress as a lot of time was already spent trying to individually run the assessment tool.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 A major difficulty we encountered as a group was getting the right dataset to run on our selected assessment tool (SRTAT).
