@@ -40,9 +40,9 @@ RDC for half the MTTF:\
 This plot is of half the MTTF, which results in a trend beginning in the continue zone, and moving into the accept zone. Therefore we can conclude that the system is reliable based on this plot being within the acceptable range. 
 
 # Comparison of Results
-
+Given the failure data above, our reliability growth testing and reliability demo charts both determined the SUT to be reliable. For the failure results from our RGT, we see an increase in failure instensity for different sections of time. The results of our RDC also depict that most of our data is within the "continue" and "acceptable" range, shifting between both ranges. Although, the results from both techniques differ, they both lead to the similar conclusions for the SUT.
 # Discussion on Similarity and Differences of the Two Techniques
-
+Both tools were effective in determining reliability for the SUT. The Reliability Growth testing techniques made use of both the MTTF times and failure intensity as well as some reliability models(Ex. Littlewood) to create the graphs that we analyzed and used to conclude. The RDC tool makes use of the failure Number and MTTF to come up with results that helped us conclude. More time was spent using the RDC because we used a trial and error approach to create our ideal graph. However, with the RGT tools, our ideal graphs were created automatically based on the reliability model and the times.
 # How the team work/effort was divided and managed
 Due to the peculiarity of this assignment and to avoid any confusion, we decided to work on the assignment all together in order to understand it better and make progress as a lot of time was already spent trying to individually run the assessment tool.
 
